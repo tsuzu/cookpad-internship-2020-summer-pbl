@@ -15,7 +15,7 @@
   "dependencies": {
     "@nuxt/typescript-runtime": "^1.0.0",
     "@types/uuid": "^8.3.0",
-    "firebase": "^7.19.0",
+    "firebase": "^10.0.0",
     "nuxt": "^2.14.0",
     "uuid": "^8.3.0",
     "vuefire": "^2.2.4"
